@@ -9,7 +9,7 @@ I'm a **Senior Software Engineer** based in Denver, CO, currently focusing on bu
 
 ### 🛠 tech stack
 - **Languages:** Kotlin, Java, TypeScript, Python
-- **Frameworks:** React, Node.js, Ember.js, KMP
+- **Frameworks:** React, Node.js
 - **Infrastructure:** Kubernetes, Docker, AWS, CI/CD
 - **AI Tools:** Claude Code, Cursor, GitHub Copilot
 
