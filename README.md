@@ -1,4 +1,4 @@
-# hi there, i'm katherine 👋
+# hi i'm katherine 👋
 
 I'm a **Senior Software Engineer** based in Denver, CO, currently focusing on building resilient, high-scale systems and exploring the frontiers of **AI-augmented development**.
 
